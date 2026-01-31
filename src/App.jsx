@@ -1,8 +1,11 @@
+import Hack2Future from './pages/Hack2Future';
+
+
 function App() {
   return (
     <>
       <div className="bg-black text-white">
-        hack2future
+        <Hack2Future />
       </div>
     </>
   )
